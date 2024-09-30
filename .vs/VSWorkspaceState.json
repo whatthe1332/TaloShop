@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebBanHangOnline",
+    "\\WebBanHangOnline\\.github",
+    "\\WebBanHangOnline\\.github\\workflows"
   ],
+  "SelectedNode": "\\WebBanHangOnline\\.github\\workflows\\deploy-iis.yml",
   "PreviewInSolutionExplorer": false
 }
